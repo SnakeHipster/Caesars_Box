@@ -11,3 +11,5 @@ Simple Java Implemntation of Caesars Box Encyption Method
     e - encrypt you message
     
     d - decrypt a message encrypted with this tool
+
+http://www.wikihow.com/Decode-a-Caesar-Box-Code
