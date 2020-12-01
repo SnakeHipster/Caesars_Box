@@ -1,6 +1,6 @@
 # Caesars_Box
 
-Simple Java Implemntation of Caesars Box Encyption Method
+Simple Java Implementation of Caesars Box Encyption Method
 
   Call on Commandline with arguments:
   
